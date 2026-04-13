@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Read the README first
+    url: https://github.com/texiwustion/tiwen-skill#readme
+    about: Check install, scope, and safety-boundary notes before opening an issue.

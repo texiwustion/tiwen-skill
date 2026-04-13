@@ -24,9 +24,13 @@
 - 加入高风险题材安全卡口
 - 加入公开自测样例与手工测试记录
 
-## 下载
+## 安装
 
-- Release asset: `tiwen-skill.skill`
+```bash
+npx skills install texiwustion/tiwen-skill
+```
+
+也可以直接下载 Release asset: `tiwen-skill.skill`
 
 ## 已知限制
 

@@ -90,13 +90,21 @@ $tiwen-skill --wounded Win10 桌面版软件开发类似网约车的项目，选
 
 ## 安装
 
-### 方式 1：GitHub Release
+### 方式 1：npx 安装
+
+```bash
+npx skills install texiwustion/tiwen-skill
+```
+
+如果你的环境支持 `skills install` 这类 GitHub 仓库安装方式，这是最直接的安装命令。安装后按平台要求重新加载 skills 或重启环境。
+
+### 方式 2：GitHub Release
 
 1. 下载 Release 附件里的 `tiwen-skill.skill`
 2. 按你的 agent / Codex 平台方式导入该 skill
 3. 重新加载 skills 或重启环境
 
-### 方式 2：源文件安装
+### 方式 3：源文件安装
 
 把 `tiwen-skill/` 目录放进你的 skills 目录中，然后重新加载技能。
 
