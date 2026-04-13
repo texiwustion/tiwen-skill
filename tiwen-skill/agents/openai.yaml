@@ -1,0 +1,8 @@
+interface:
+  display_name: "提问.skill"
+  short_description: "把小白问题拷打成成熟提问"
+  brand_color: "#8B5CF6"
+  default_prompt: "Use $tiwen-skill to pressure-test this raw question and turn it into one askable human-facing question."
+
+policy:
+  allow_implicit_invocation: true

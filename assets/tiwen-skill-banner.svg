@@ -1,0 +1,19 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="640" fill="#FAF7F2"/>
+  <rect x="64" y="64" width="1152" height="512" rx="28" fill="#FFFDF9" stroke="#E8E0D6"/>
+  <path d="M176 152L256 208L208 296L320 360L248 456" stroke="#D16A5A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" opacity="0.72"/>
+  <path d="M220 136L348 190L286 286L392 332L332 460" stroke="#262626" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.32"/>
+  <path d="M156 226L308 142" stroke="#262626" stroke-width="3" opacity="0.18"/>
+  <path d="M172 402L336 470" stroke="#262626" stroke-width="3" opacity="0.18"/>
+  <rect x="472" y="112" width="2" height="416" fill="#E8E0D6"/>
+  <rect x="512" y="112" width="2" height="416" fill="#E8E0D6"/>
+  <rect x="552" y="112" width="2" height="416" fill="#E8E0D6"/>
+  <rect x="592" y="112" width="2" height="416" fill="#E8E0D6"/>
+  <rect x="632" y="112" width="2" height="416" fill="#E8E0D6"/>
+  <rect x="672" y="112" width="2" height="416" fill="#E8E0D6"/>
+  <path d="M720 320H1068" stroke="#111111" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="1114" cy="320" r="18" fill="#D16A5A"/>
+  <text x="720" y="220" fill="#121212" font-size="78" font-family="'SF Pro Display','Segoe UI','PingFang SC','Hiragino Sans GB','Noto Sans CJK SC',sans-serif" font-weight="700">提问.skill</text>
+  <text x="720" y="278" fill="#5B514A" font-size="28" font-family="'SF Pro Text','Segoe UI','PingFang SC','Hiragino Sans GB','Noto Sans CJK SC',sans-serif">不回答，不教学，先把问题问明白</text>
+  <text x="720" y="398" fill="#6A6058" font-size="24" font-family="'SF Pro Text','Segoe UI','PingFang SC','Hiragino Sans GB','Noto Sans CJK SC',sans-serif">From raw question to askable question</text>
+</svg>

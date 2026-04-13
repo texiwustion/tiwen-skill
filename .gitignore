@@ -1,0 +1,15 @@
+# Local orchestration/runtime state
+.omx/
+.codex/
+
+# OS/editor noise
+.DS_Store
+*.swp
+*.swo
+
+# Python/cache noise
+__pycache__/
+*.pyc
+
+# Workspace-local instructions
+AGENTS.md
